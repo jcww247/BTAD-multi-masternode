@@ -161,6 +161,7 @@ rpcpassword=$USERPASS
 server=1
 daemon=1
 listen=1
+printtoconsole=1
 maxconnections=256
 masternode=1
 masternodeprivkey=$MKey
